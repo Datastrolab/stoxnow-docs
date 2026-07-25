@@ -24,8 +24,8 @@ export default function Home() {
         </div>
 
         <h1 className="text-5xl font-bold tracking-tight mb-6 max-w-2xl leading-tight">
-          Financial data for{' '}
-          <span style={{ color: 'var(--purple-light)' }}>developers</span>
+          Stock market data for{' '}
+          <span style={{ color: 'var(--purple-light)' }}>data scientists</span>
         </h1>
 
         <p className="text-lg mb-10 max-w-xl" style={{ color: 'var(--muted)' }}>
