@@ -24,7 +24,7 @@ export default function Home() {
         </div>
 
         <h1 className="text-5xl font-bold tracking-tight mb-6 max-w-2xl leading-tight">
-          Stock market data for{' '}
+          Stock market for{' '}
           <span style={{ color: 'var(--purple-light)' }}>data scientists</span>
         </h1>
 
