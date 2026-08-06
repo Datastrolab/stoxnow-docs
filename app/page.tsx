@@ -18,6 +18,11 @@ export default function Home() {
 
       {/* Hero */}
       <main className="flex-1 flex flex-col items-center justify-center px-6 py-24 text-center">
+        <div className="mb-3 text-xs font-mono px-3 py-1 rounded-full inline-block"
+          style={{ background: '#2e1f0a', color: '#fbbf24', border: '1px solid #6e4f1f' }}>
+          Work in progress
+        </div>
+
         <div className="mb-4 text-sm font-mono px-3 py-1 rounded-full inline-block"
           style={{ background: '#1a0a2e', color: 'var(--purple-light)', border: '1px solid #3b1f6e' }}>
           pip install stoxnow
